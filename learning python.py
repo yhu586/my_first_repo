@@ -21,3 +21,4 @@ z = [1,2,3,4,5]
 z
 type(z)
 z = np.array(z)
+
